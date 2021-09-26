@@ -1,0 +1,68 @@
+stickman/App.java
+ stickman.App
+stickman/model/FlagCollisionStrategy.java
+ stickman.model.FlagCollisionStrategy
+stickman/model/Bullet.java
+ stickman.model.Bullet
+stickman/model/Platform.java
+ stickman.model.Platform
+stickman/view/KeyboardInputHandler.java
+ stickman.view.KeyboardInputHandler
+stickman/model/Mushroom.java
+ stickman.model.Mushroom
+stickman/model/LevelOne.java
+ stickman.model.LevelOne
+stickman/model/GameEngineImpl.java
+ stickman.model.GameEngineImpl
+stickman/view/BlockedBackground.java
+ stickman.view.BlockedBackground
+stickman/view/EntityViewImpl.java
+ stickman.view.EntityViewImpl
+ stickman.view.EntityViewImpl$1
+stickman/model/MushroomFactory.java
+ stickman.model.MushroomFactory
+stickman/model/EnemyCollisionStrategy.java
+ stickman.model.EnemyCollisionStrategy
+stickman/model/Level.java
+ stickman.model.Level
+stickman/view/EntityView.java
+ stickman.view.EntityView
+stickman/model/GameEngine.java
+ stickman.model.GameEngine
+stickman/view/GameWindow.java
+ stickman.view.GameWindow
+stickman/model/PlatformFactory.java
+ stickman.model.PlatformFactory
+stickman/model/StickManFactory.java
+ stickman.model.StickManFactory
+stickman/model/StaticEntity.java
+ stickman.model.StaticEntity
+stickman/model/EntityCollisionStrategy.java
+ stickman.model.EntityCollisionStrategy
+stickman/model/StickMan.java
+ stickman.model.StickMan
+stickman/view/BackgroundDrawer.java
+ stickman.view.BackgroundDrawer
+stickman/model/Entity.java
+ stickman.model.Entity
+ stickman.model.Entity$Layer
+stickman/model/MushroomCollisionStrategy.java
+ stickman.model.MushroomCollisionStrategy
+stickman/model/FlagFactory.java
+ stickman.model.FlagFactory
+stickman/model/PlatformCollisionStrategy.java
+ stickman.model.PlatformCollisionStrategy
+stickman/model/EntityFactory.java
+ stickman.model.EntityFactory
+stickman/model/Flag.java
+ stickman.model.Flag
+stickman/model/AgentEntity.java
+ stickman.model.AgentEntity
+stickman/model/BulletFactory.java
+ stickman.model.BulletFactory
+stickman/model/BulletCollisionStrategy.java
+ stickman.model.BulletCollisionStrategy
+stickman/model/Enemy.java
+ stickman.model.Enemy
+stickman/model/EnemyFactory.java
+ stickman.model.EnemyFactory
