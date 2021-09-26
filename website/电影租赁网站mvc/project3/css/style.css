@@ -1,0 +1,71 @@
+
+#searching {
+  height: 300px;
+  background-image: url("../images/aa.png");
+  background-size: cover;
+}
+
+.input-group {
+  width: 70vw;
+  margin-top: 70px;
+}
+
+.col-3 {
+  padding: 20px;
+}
+
+.col {
+  margin: 20px;
+}
+
+.card-deck {
+  margin-bottom: 20px;
+}
+.col p{
+  padding-left: 20px;
+}
+.col h4{
+  margin-bottom: 20px;
+}
+#signup_form{
+  
+  padding:50px;
+
+}
+#signin_form{
+padding:50px;
+
+
+  
+}
+.check_register{
+  display: inline;
+
+}
+.invalid_check{
+  background-color: red;
+}
+#head{
+  width:40px;
+  height: 40px;
+  margin-right:1vw;
+}
+
+#drop_file_zone {
+  background-color: #EEE; 
+  border: #999 5px dashed;
+  width: 290px; 
+  height: 200px;
+  padding: 8px;
+  font-size: 18px;
+}
+#drag_upload_file {
+width:50%;
+margin:0 auto;
+}
+#drag_upload_file p {
+text-align: center;
+}
+#drag_upload_file #selectfile {
+display: none;
+}
