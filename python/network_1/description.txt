@@ -1,0 +1,3 @@
+The task for this part is to write a program to retrieve a file on a webserver via HTTP. Your program should make
+use of sockets to send and receive HTTP requests/responses and must be written in Python, Java, C, or C++. It
+is recommended that you use Python as more support will be available for it in this course.

@@ -1,0 +1,3 @@
+it required to implement the network layer for a host running on a virtual
+IP network. You should be familiar with the typical TCP/IP stack (A.K.A. the DoD model or internet protocol
+suite), where Ethernet is used as a link-layer protocol and IPv4 used as a network layer protocol. 
